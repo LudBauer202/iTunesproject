@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rendered Page Displays 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      <div
+        className="HomeSearch"
+      >
+        <h1
+          className="HeaderLogo"
+        >
+          iTunes
+        </h1>
+        <input
+          onChange={[Function]}
+          placeholder="Search any iTunes product"
+        />
+        <button
+          className="btnSearch"
+          onClick={[Function]}
+        >
+          Search
+        </button>
+        <form>
+          <select
+            onChange={[Function]}
+          >
+            <option
+              value="all"
+            >
+              All
+            </option>
+            <option
+              value="movie"
+            >
+              Movie
+            </option>
+            <option
+              value="podcast"
+            >
+              Podcast
+            </option>
+            <option
+              value="music"
+            >
+              Music
+            </option>
+            <option
+              value="musicVideo"
+            >
+              Music Video
+            </option>
+            <option
+              value="audiobook"
+            >
+              Audio Book
+            </option>
+            <option
+              value="shortFilm"
+            >
+              Short Film
+            </option>
+            <option
+              value="tvShow"
+            >
+              TV Show
+            </option>
+            <option
+              value="software"
+            >
+              Software
+            </option>
+            <option
+              value="ebook"
+            >
+              E-book
+            </option>
+            <option
+              value="all"
+            >
+              All
+            </option>
+          </select>
+        </form>
+      </div>
+    </div>
+  </div>
+  <h1
+    id="FavHeader"
+  >
+    Favourites
+  </h1>
+  <div
+    className="row"
+  />
+</div>
+`;
